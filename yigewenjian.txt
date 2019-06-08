@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 heiheiheiheihei
 
 
 asddasdasdsklgmklgjlskdb;laek
+=======
+heiheiheii
+
+
+sakfdjksladjflk
+>>>>>>> second_branch
